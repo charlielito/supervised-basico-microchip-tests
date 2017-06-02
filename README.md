@@ -11,7 +11,7 @@ El dataset consiste en 118 datos.
 
 
 ### Ranking
-Ver [ranking](https://github.com/charlielito/supervised-basico-circles/blob/master/ranking.md).
+Ver [ranking](https://github.com/charlielito/supervised-basico-microchip-tests/blob/master/ranking.md).
 
 ### Formato Datos
 Los datos se encuentran en los siguientes archivos CSV:
