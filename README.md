@@ -15,7 +15,7 @@ Ver [ranking](https://github.com/charlielito/supervised-basico-microchip-tests/b
 
 ### Formato Datos
 Los datos se encuentran en los siguientes archivos CSV:
-* `traning-set.csv`
+* `train-set.csv`
 * `test-set.csv`
 
 ### Variables
@@ -24,7 +24,7 @@ Los datos se encuentran en los siguientes archivos CSV:
 
 
 ### Objetivo
-Crear un algortimo que tome como input un los resultados de los tests y retorne si el microchip fue aceptado o no. Solo se pueden utilizar los datos del `traning-set.csv` para entrenar.
+Crear un algortimo que tome como input un los resultados de los tests y retorne si el microchip fue aceptado o no. Solo se pueden utilizar los datos del `train-set.csv` para entrenar.
 
 El performance se debe medir con respecto a los datos del `test-set.csv` utilizando la siguiente formula
 ```python
